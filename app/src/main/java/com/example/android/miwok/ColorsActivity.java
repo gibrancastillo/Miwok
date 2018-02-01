@@ -26,6 +26,9 @@ import android.widget.ListView;
 
 import java.util.ArrayList;
 
+/**
+ *
+ */
 public class ColorsActivity extends AppCompatActivity {
 
     /** Handles playback of all the sound files */
