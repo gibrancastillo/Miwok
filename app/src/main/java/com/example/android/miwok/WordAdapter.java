@@ -31,7 +31,7 @@ import java.util.ArrayList;
  * based on a data source, which is a list of {@link Word} objects.
  */
 public class WordAdapter extends ArrayAdapter<Word>  {
-
+    
     /** Resource ID for the background color for this list of words */
     private int mColorResourceId;
 
